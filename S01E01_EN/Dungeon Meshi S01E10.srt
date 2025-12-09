@@ -1,0 +1,1825 @@
+﻿1
+00:01:22,650 --> 00:01:26,862
+MỸ VỊ HẦM NGỤC
+
+2
+00:01:38,958 --> 00:01:41,877
+Hey, are you sure we're on the right path?
+
+3
+00:01:41,877 --> 00:01:43,921
+Yup, these are the stairs we need to take.
+
+4
+00:01:44,421 --> 00:01:46,549
+After these steps,
+we'll reach the fifth basement floor,
+
+5
+00:01:46,549 --> 00:01:48,634
+close to the orc settlement.
+
+6
+00:01:48,634 --> 00:01:50,261
+At least that's what it says on the map.
+
+7
+00:01:52,346 --> 00:01:54,598
+How are we supposed
+to go down these steps?
+
+8
+00:01:55,850 --> 00:01:56,934
+This is incredible.
+
+9
+00:01:56,934 --> 00:01:59,520
+There's a wide variety
+of Tentacles growing here.
+
+10
+00:02:00,104 --> 00:02:02,273
+The orcs totally made a fool of us.
+
+11
+00:02:02,273 --> 00:02:04,358
+They kindly laid a trap for us.
+
+12
+00:02:04,358 --> 00:02:05,526
+I'm not so sure.
+
+13
+00:02:05,526 --> 00:02:07,528
+This route leads to their settlement.
+
+14
+00:02:08,112 --> 00:02:11,282
+It's ideal for keeping away
+outsiders at least.
+
+15
+00:02:11,824 --> 00:02:13,909
+Let's try moving forward.
+
+16
+00:02:14,577 --> 00:02:18,789
+Given the time and effort that would take,
+taking a detour might be a quicker option.
+
+17
+00:02:21,250 --> 00:02:24,420
+Marcille, don't get
+too close to the walls.
+
+18
+00:02:25,504 --> 00:02:28,174
+These creatures lurk within the walls.
+
+19
+00:02:28,174 --> 00:02:32,303
+<i>Places teeming with Tentacles
+have just as many cavities.</i>
+
+20
+00:02:32,303 --> 00:02:34,930
+<i>It also means
+there are many traps and devices.</i>
+
+21
+00:02:34,930 --> 00:02:37,141
+<i>The Tentacles crush
+and break these devices</i>
+
+22
+00:02:37,141 --> 00:02:41,020
+<i>and they even grow on treasure chests,
+working mischief together with the traps.</i>
+
+23
+00:02:41,020 --> 00:02:44,189
+<i>They're monsters
+I want to see exterminated next to Mimics!</i>
+
+24
+00:02:45,399 --> 00:02:46,358
+There.
+
+25
+00:02:46,358 --> 00:02:48,903
+I think we made some
+pretty good progress...
+
+26
+00:02:53,407 --> 00:02:54,575
+Strange.
+
+27
+00:02:54,575 --> 00:02:57,494
+The orcs must've used this path
+to climb to the third floor.
+
+28
+00:02:57,494 --> 00:02:59,955
+How did they manage to navigate this area?
+
+29
+00:03:01,290 --> 00:03:02,499
+Something's here.
+
+30
+00:03:02,499 --> 00:03:03,751
+Be careful.
+
+31
+00:03:12,134 --> 00:03:13,052
+Kensuke!
+
+32
+00:03:13,802 --> 00:03:14,803
+It's a Giant Frog!
+
+33
+00:03:14,803 --> 00:03:16,680
+Ugh, so gross!
+
+34
+00:03:17,514 --> 00:03:18,933
+No way!
+
+35
+00:03:18,933 --> 00:03:20,809
+I got this! <i>Aslam!</i>
+
+36
+00:03:26,190 --> 00:03:27,816
+No!
+
+37
+00:03:28,984 --> 00:03:31,153
+Ambrosia!
+
+38
+00:03:38,452 --> 00:03:40,037
+Senshi, behind you!
+
+39
+00:03:43,999 --> 00:03:45,542
+Don't let go!
+
+40
+00:03:45,542 --> 00:03:46,919
+Hang in there, Senshi!
+
+41
+00:03:46,919 --> 00:03:48,504
+M-Magic...
+
+42
+00:03:48,504 --> 00:03:50,923
+- It should be close enough.
+- No! It's too close!
+
+43
+00:03:50,923 --> 00:03:52,800
+<i>This is bad.</i>
+
+44
+00:03:52,800 --> 00:03:54,176
+<i>What do we do?</i>
+
+45
+00:03:55,386 --> 00:03:57,304
+<i>Is that a trap?</i>
+
+46
+00:03:57,888 --> 00:04:01,183
+<i>There's a Tentacles growing unnaturally
+from the wall next to the frog.</i>
+
+47
+00:04:01,183 --> 00:04:04,311
+<i>It's probably growing out
+of the exit of a trap.</i>
+
+48
+00:04:04,311 --> 00:04:07,564
+<i>If I can extract it,
+I could trigger the trap.</i>
+
+49
+00:04:08,274 --> 00:04:09,316
+<i>But...</i>
+
+50
+00:04:09,316 --> 00:04:11,277
+<i>how do I pull it out?</i>
+
+51
+00:04:11,277 --> 00:04:13,779
+<i>If I touch it directly,
+my hands will get swollen.</i>
+
+52
+00:04:16,907 --> 00:04:18,200
+Laios!
+
+53
+00:04:18,784 --> 00:04:21,954
+Why are Giant Frogs safe
+even when in contact with the Tentacles?
+
+54
+00:04:23,539 --> 00:04:24,707
+Huh?
+
+55
+00:04:24,707 --> 00:04:25,624
+No idea.
+
+56
+00:04:25,624 --> 00:04:27,459
+Maybe it's their biological makeup.
+
+57
+00:04:27,459 --> 00:04:30,462
+<i>So, you don't have any info on this?</i>
+
+58
+00:04:30,462 --> 00:04:33,465
+Children can be inquisitive
+regardless of the situation, huh?
+
+59
+00:04:33,465 --> 00:04:35,050
+Fine!
+
+60
+00:04:47,271 --> 00:04:48,897
+Chilchuck!
+
+61
+00:04:53,277 --> 00:04:54,528
+<i>It doesn't hurt!</i>
+
+62
+00:04:54,528 --> 00:04:55,654
+<i>I can do this!</i>
+
+63
+00:04:56,196 --> 00:04:57,364
+Huh?
+
+64
+00:04:57,364 --> 00:04:59,575
+<i>I can't pull it out!</i>
+
+65
+00:05:07,708 --> 00:05:10,127
+- Chilchuck!
+- Chilchuck!
+
+66
+00:05:21,180 --> 00:05:22,389
+Chilchuck!
+
+67
+00:05:28,228 --> 00:05:29,229
+He's alive.
+
+68
+00:05:29,229 --> 00:05:30,230
+Show me your hands!
+
+69
+00:05:30,814 --> 00:05:32,483
+Huh? They're unhurt.
+
+70
+00:05:32,483 --> 00:05:33,859
+I see.
+
+71
+00:05:33,859 --> 00:05:36,445
+He wrapped his hands
+with the skin of a Giant Frog.
+
+72
+00:05:36,445 --> 00:05:38,363
+Well done!
+
+73
+00:05:41,825 --> 00:05:42,868
+Chilchuck,
+
+74
+00:05:43,702 --> 00:05:46,330
+this is a really great idea!
+
+75
+00:05:47,873 --> 00:05:49,875
+<i>Dissect a Giant Frog</i>
+
+76
+00:05:49,875 --> 00:05:52,628
+<i>and remove the skin from its body.</i>
+
+77
+00:05:52,628 --> 00:05:54,254
+U-Um, hey...
+
+78
+00:05:54,254 --> 00:05:56,548
+Peel the Tentacles
+
+79
+00:05:57,091 --> 00:06:00,511
+and save the narrow sections for later.
+
+80
+00:06:00,511 --> 00:06:02,513
+Boil the thicker portions,
+
+81
+00:06:02,513 --> 00:06:05,516
+then, after boiling, mash them
+and knead with flour.
+
+82
+00:06:05,516 --> 00:06:09,019
+Shape the mixture into sticks,
+and slice them into bite-sized pieces,
+
+83
+00:06:09,603 --> 00:06:10,979
+and boil once more.
+
+84
+00:06:10,979 --> 00:06:11,939
+Hey...
+
+85
+00:06:11,939 --> 00:06:14,525
+Lightly dry the Giant Frog skins,
+
+86
+00:06:14,525 --> 00:06:17,528
+<i>take various measurements, and sew.</i>
+
+87
+00:06:17,528 --> 00:06:21,156
+Heat olive oil, garlic,
+and hot pepper in a pan,
+
+88
+00:06:21,156 --> 00:06:25,035
+then add the thigh meat of a Giant Frog
+and sauté them together.
+
+89
+00:06:25,035 --> 00:06:26,495
+- It's done!
+- It's done!
+
+90
+00:06:26,495 --> 00:06:29,039
+TENTACLES GNOCCHI,
+TENTACLES PASTA, FROG SUIT
+
+91
+00:06:29,039 --> 00:06:31,416
+<i>Ugh, just great!</i>
+
+92
+00:06:31,416 --> 00:06:33,210
+Bring them to me one person at a time!
+
+93
+00:06:33,210 --> 00:06:36,296
+You guys finished your tasks
+while I was debating which of you to stop!
+
+94
+00:06:36,296 --> 00:06:38,590
+Come on, now, just give it a try.
+
+95
+00:06:38,590 --> 00:06:41,593
+Yes, give it a bite at least.
+
+96
+00:06:41,593 --> 00:06:43,804
+I said one person at a time!
+
+97
+00:06:44,513 --> 00:06:46,932
+And who knows
+whether they're really safe or not?
+
+98
+00:06:49,226 --> 00:06:50,644
+WHISPER
+
+99
+00:06:50,644 --> 00:06:54,398
+I think you'll look
+really cute in it, Marcille.
+
+100
+00:07:08,370 --> 00:07:09,872
+You look so cute!
+
+101
+00:07:09,872 --> 00:07:11,540
+The color really suits you.
+
+102
+00:07:11,540 --> 00:07:14,793
+I like how your ears are contributing
+to that frog-like silhouette.
+
+103
+00:07:14,793 --> 00:07:16,336
+Let's get moving.
+
+104
+00:07:16,336 --> 00:07:17,463
+Right.
+
+105
+00:07:21,633 --> 00:07:24,428
+Wow! It doesn't hurt at all!
+
+106
+00:07:24,428 --> 00:07:26,805
+Ugh, this is so disgusting!
+
+107
+00:07:27,389 --> 00:07:28,807
+How beautiful.
+
+108
+00:07:29,808 --> 00:07:31,059
+It's delicious.
+
+109
+00:07:36,523 --> 00:07:37,608
+Kensuke!
+
+110
+00:07:37,608 --> 00:07:38,817
+Thank goodness!
+
+111
+00:07:41,403 --> 00:07:42,321
+Look!
+
+112
+00:07:43,405 --> 00:07:45,240
+It's the castle town.
+
+113
+00:07:45,240 --> 00:07:47,409
+We're already on the fifth floor!
+
+114
+00:07:51,955 --> 00:07:54,416
+There are signs
+of people fleeing in panic.
+
+115
+00:07:55,000 --> 00:07:57,419
+It seems the orcs were speaking the truth.
+
+116
+00:07:57,419 --> 00:08:00,923
+It's certain that there's
+a Red Dragon around here.
+
+117
+00:08:00,923 --> 00:08:04,009
+Let's stay vigilant
+and ready for combat as we move ahead.
+
+118
+00:08:06,303 --> 00:08:07,304
+Huh?
+
+119
+00:08:08,138 --> 00:08:11,016
+It seems like the Giant Frog's blood
+
+120
+00:08:11,016 --> 00:08:14,561
+has congealed inside
+and got stuck to my clothes.
+
+121
+00:08:15,145 --> 00:08:18,065
+We didn't have enough time
+to dry the skins, after all.
+
+122
+00:08:19,107 --> 00:08:20,943
+Are we going
+to fight the dragon like this?
+
+123
+00:08:23,529 --> 00:08:27,449
+How am I supposed
+to reunite with Falin now, huh?!
+
+124
+00:08:27,449 --> 00:08:29,076
+Answer me!
+
+125
+00:08:43,924 --> 00:08:46,843
+- It feels like my insides are spinning.
+- Kiki, Kaka.
+
+126
+00:08:46,843 --> 00:08:50,013
+Show Namari to the guest room
+so she can rest.
+
+127
+00:08:51,181 --> 00:08:54,851
+I will go to report
+to the Lord of the Island.
+
+128
+00:09:01,692 --> 00:09:04,861
+<i>So, how was it inside the dungeon?</i>
+
+129
+00:09:04,861 --> 00:09:07,531
+The most concerning thing
+
+130
+00:09:07,531 --> 00:09:09,866
+is that it has become a rough place.
+
+131
+00:09:09,866 --> 00:09:12,077
+All the treasures down
+to the third basement floor
+
+132
+00:09:12,077 --> 00:09:13,579
+have been plundered.
+
+133
+00:09:13,579 --> 00:09:16,373
+And there are now
+more hangouts for outlaws.
+
+134
+00:09:16,957 --> 00:09:17,791
+<i>What's worse,</i>
+
+135
+00:09:17,791 --> 00:09:23,130
+<i>orc hordes have started appearing
+on the upper floors and causing trouble.</i>
+
+136
+00:09:23,130 --> 00:09:26,758
+You should consider deploying a troop
+or offering rewards to deal with them.
+
+137
+00:09:28,302 --> 00:09:31,138
+I wonder where the orcs entered from.
+
+138
+00:09:31,722 --> 00:09:35,183
+I suspect that some old dwarf mines
+might be connected to the dungeon.
+
+139
+00:09:35,183 --> 00:09:38,145
+Orcs tend to inhabit such passages.
+
+140
+00:09:38,145 --> 00:09:39,896
+Dwarves, huh?
+
+141
+00:09:39,896 --> 00:09:42,024
+How abominable.
+
+142
+00:09:42,024 --> 00:09:43,775
+<i>They're like moles.</i>
+
+143
+00:09:43,775 --> 00:09:47,029
+<i>No matter how you seal off their passages,
+they keep making more.</i>
+
+144
+00:09:47,029 --> 00:09:48,530
+<i>A long time ago,</i>
+
+145
+00:09:48,530 --> 00:09:52,451
+<i>the elves and dwarves divided
+into the east and west in conflict.</i>
+
+146
+00:09:52,451 --> 00:09:57,372
+<i>They say the dwarves hid in these lands
+and waited for the arrival of the elves.</i>
+
+147
+00:09:57,372 --> 00:09:59,916
+Even after the war,
+they continued to dig tunnels,
+
+148
+00:09:59,916 --> 00:10:03,795
+eventually swallowing the Golden City
+and turning it into a dungeon.
+
+149
+00:10:04,379 --> 00:10:07,341
+I hear that the surviving dwarves
+are responsible
+
+150
+00:10:07,341 --> 00:10:10,135
+for the dungeon's ongoing expansion.
+
+151
+00:10:10,135 --> 00:10:13,180
+That rumor cannot be trusted.
+
+152
+00:10:13,764 --> 00:10:16,683
+Anyhow, here is the magic circle I copied.
+
+153
+00:10:16,683 --> 00:10:19,186
+It's in Elvish, like all the others.
+
+154
+00:10:19,186 --> 00:10:22,606
+And based on the handwriting,
+the author is likely the same individual.
+
+155
+00:10:22,606 --> 00:10:26,693
+There are absolutely no traces
+of anyone tampering with it.
+
+156
+00:10:27,277 --> 00:10:28,654
+The lord of the dungeon,
+
+157
+00:10:28,654 --> 00:10:33,200
+the lunatic magician,
+is most certainly the one who made this.
+
+158
+00:10:33,200 --> 00:10:35,619
+Is he an elf?
+
+159
+00:10:35,619 --> 00:10:37,621
+I can't be certain,
+
+160
+00:10:37,621 --> 00:10:40,749
+but this magic is beyond
+the capabilities of a tall-man or a dwarf.
+
+161
+00:10:40,749 --> 00:10:42,459
+What a tricky situation.
+
+162
+00:10:43,377 --> 00:10:47,839
+The thing is, I received a letter
+from the western elves the other day.
+
+163
+00:10:47,839 --> 00:10:52,844
+<i>It said, "The dungeon is our heritage.
+Return it to us."</i>
+
+164
+00:10:52,844 --> 00:10:55,138
+What a selfish demand!
+
+165
+00:10:55,138 --> 00:10:57,391
+They're the ones who took this land
+from the dwarves
+
+166
+00:10:57,391 --> 00:11:00,310
+and handed it over to humans because
+they didn't know what to do with it!
+
+167
+00:11:01,019 --> 00:11:02,396
+Ignore them.
+
+168
+00:11:02,396 --> 00:11:05,732
+This land was granted
+by the king of the elves himself.
+
+169
+00:11:05,732 --> 00:11:07,067
+I can't just do that.
+
+170
+00:11:09,069 --> 00:11:11,571
+They'll take this island, too.
+
+171
+00:11:11,571 --> 00:11:13,365
+That won't do.
+
+172
+00:11:13,365 --> 00:11:17,828
+There must be great treasure
+still hidden in that dungeon.
+
+173
+00:11:17,828 --> 00:11:19,079
+Lord of the Island,
+
+174
+00:11:19,079 --> 00:11:21,957
+the elves aren't after the treasure.
+
+175
+00:11:21,957 --> 00:11:25,210
+<i>They're after the spell of immortality
+that is cast on the dungeon.</i>
+
+176
+00:11:25,836 --> 00:11:29,506
+The magic that ties the soul to the body
+is still a big mystery.
+
+177
+00:11:29,506 --> 00:11:34,719
+When that mystery is solved,
+its worth will far surpass that of gold.
+
+178
+00:11:34,719 --> 00:11:37,889
+We must figure it out before the elves do.
+
+179
+00:11:37,889 --> 00:11:41,184
+Are you suggesting we copy
+every single magic circle to study them?
+
+180
+00:11:41,184 --> 00:11:42,727
+Listen carefully!
+
+181
+00:11:42,727 --> 00:11:46,690
+When such great magic is involved,
+there is always a blueprint.
+
+182
+00:11:46,690 --> 00:11:48,233
+Get your hands on it!
+
+183
+00:11:48,984 --> 00:11:50,485
+As long as you have it,
+
+184
+00:11:50,485 --> 00:11:53,864
+you can give up the dungeon
+or anything you please.
+
+185
+00:11:53,864 --> 00:11:57,159
+Once the elves know you possess it,
+
+186
+00:11:57,159 --> 00:11:59,661
+they will finally treat you as an equal,
+
+187
+00:11:59,661 --> 00:12:04,040
+no, they will kneel before you
+to negotiate with you.
+
+188
+00:12:04,040 --> 00:12:06,001
+I-Is that so?
+
+189
+00:12:06,001 --> 00:12:08,795
+So? Where can I find this blueprint?
+
+190
+00:12:08,795 --> 00:12:10,297
+That's simple.
+
+191
+00:12:10,839 --> 00:12:13,800
+It's likely in the possession
+of the lord of the dungeon.
+
+192
+00:12:13,800 --> 00:12:17,220
+In other words, you want me
+to keep backing the explorers?
+
+193
+00:12:17,220 --> 00:12:18,513
+Precisely.
+
+194
+00:12:19,097 --> 00:12:21,600
+Don't bargain down the prices
+for hunting monsters
+
+195
+00:12:21,600 --> 00:12:23,059
+and the loot from the dungeons.
+
+196
+00:12:23,059 --> 00:12:26,521
+Don't hoard your wealth
+and provide even more support.
+
+197
+00:12:27,105 --> 00:12:28,190
+Very well.
+
+198
+00:12:28,190 --> 00:12:30,817
+I'll offer rewards for taking down orcs.
+
+199
+00:12:30,817 --> 00:12:32,527
+What do I say to the elves?
+
+200
+00:12:32,527 --> 00:12:35,071
+I'll help you buy time.
+
+201
+00:12:37,282 --> 00:12:39,910
+<i>Laios, was it?</i>
+
+202
+00:12:39,910 --> 00:12:42,496
+<i>He was a skilled adventurer,</i>
+
+203
+00:12:42,496 --> 00:12:45,874
+<i>but I wonder how far
+his party can advance.</i>
+
+204
+00:12:51,963 --> 00:12:53,924
+Good morning, Namari.
+
+205
+00:12:53,924 --> 00:12:55,509
+How are you feeling?
+
+206
+00:12:57,010 --> 00:12:58,512
+My axe!
+
+207
+00:12:59,054 --> 00:13:00,847
+Your stuff is right here.
+
+208
+00:13:00,847 --> 00:13:01,932
+And
+
+209
+00:13:01,932 --> 00:13:04,935
+here's money from Grandpa Tansu.
+
+210
+00:13:06,394 --> 00:13:08,021
+It's more than I expected.
+
+211
+00:13:08,021 --> 00:13:09,814
+There might be a little break,
+
+212
+00:13:09,814 --> 00:13:11,900
+but he said he wanted
+to request your help again.
+
+213
+00:13:11,900 --> 00:13:13,944
+T-Thanks.
+
+214
+00:13:13,944 --> 00:13:15,153
+I owe you.
+
+215
+00:13:15,737 --> 00:13:17,822
+I'll walk you to the street.
+
+216
+00:13:21,159 --> 00:13:22,452
+Do you have a home?
+
+217
+00:13:22,452 --> 00:13:23,828
+Or do you stay at an inn?
+
+218
+00:13:24,412 --> 00:13:26,790
+Neither. I'm heading toward the dungeon.
+
+219
+00:13:27,666 --> 00:13:28,583
+Why?
+
+220
+00:13:28,583 --> 00:13:30,085
+You're going under again?
+
+221
+00:13:30,085 --> 00:13:31,294
+No.
+
+222
+00:13:31,294 --> 00:13:33,588
+I have an errand to the nearby temple.
+
+223
+00:13:34,673 --> 00:13:36,675
+An errand?
+
+224
+00:13:45,767 --> 00:13:47,102
+It's the resurrection office.
+
+225
+00:13:48,228 --> 00:13:49,604
+Namari!
+
+226
+00:13:50,188 --> 00:13:53,191
+Is it true you left Laios' party?
+
+227
+00:13:54,568 --> 00:13:56,945
+So, what are you looking for?
+An item or a person?
+
+228
+00:13:56,945 --> 00:13:58,029
+A person.
+
+229
+00:13:58,029 --> 00:14:00,907
+A female tall-man with light brown hair.
+
+230
+00:14:00,907 --> 00:14:02,993
+It's around shoulder length.
+
+231
+00:14:02,993 --> 00:14:04,286
+She's somewhere between...
+
+232
+00:14:04,869 --> 00:14:07,706
+her teens and her forties.
+
+233
+00:14:07,706 --> 00:14:10,292
+Wait. Do you mean Laios' sister?
+
+234
+00:14:10,834 --> 00:14:13,336
+She's in her twenties at most.
+
+235
+00:14:13,336 --> 00:14:15,046
+You should get your eyes checked.
+
+236
+00:14:15,630 --> 00:14:18,550
+It's hard to guess the age
+of people from other races, okay?
+
+237
+00:14:20,135 --> 00:14:22,679
+We have no corpse here
+that fits that description.
+
+238
+00:14:23,597 --> 00:14:24,598
+I see.
+
+239
+00:14:26,266 --> 00:14:27,809
+<i>On the fifth basement floor,</i>
+
+240
+00:14:27,809 --> 00:14:32,188
+<i>outside the Golden Castle,
+lies the castle town.</i>
+
+241
+00:14:32,772 --> 00:14:36,192
+<i>The streets, expanded and warped by magic,</i>
+
+242
+00:14:36,192 --> 00:14:41,197
+<i>show traces of a time
+when they bustled with activity.</i>
+
+243
+00:14:41,197 --> 00:14:44,701
+<i>Figures pass by the edge of your vision.</i>
+
+244
+00:14:44,701 --> 00:14:47,203
+<i>You hear whispers.</i>
+
+245
+00:14:47,203 --> 00:14:50,540
+<i>Such peculiar sensations wash over you.</i>
+
+246
+00:14:52,792 --> 00:14:55,712
+Seems like this was the location
+for the orc settlement.
+
+247
+00:14:55,712 --> 00:14:58,298
+They must have left in quite a rush.
+
+248
+00:14:58,298 --> 00:15:00,717
+The pantry doors are left wide open.
+
+249
+00:15:00,717 --> 00:15:02,594
+What an awful stench.
+
+250
+00:15:02,594 --> 00:15:05,221
+Looks like the monsters in this area
+scavenged this place.
+
+251
+00:15:05,221 --> 00:15:08,183
+It seems the flour and alcohol
+are safe, though.
+
+252
+00:15:09,309 --> 00:15:11,061
+Let's make bread.
+
+253
+00:15:11,061 --> 00:15:13,229
+The orcs won't be happy
+when they come back.
+
+254
+00:15:13,229 --> 00:15:16,733
+We gave them vegetables,
+so it's a fair exchange.
+
+255
+00:15:29,579 --> 00:15:30,914
+Wargs.
+
+256
+00:15:31,623 --> 00:15:33,959
+It wasn't a fire, was it?
+
+257
+00:15:33,959 --> 00:15:35,126
+No.
+
+258
+00:15:35,126 --> 00:15:37,545
+They were defeated
+by the Red Dragon's fire breath.
+
+259
+00:15:39,130 --> 00:15:42,676
+The dragon passed through here
+not too long ago.
+
+260
+00:15:42,676 --> 00:15:44,427
+H-Hey.
+
+261
+00:15:45,011 --> 00:15:46,471
+You mentioned before
+
+262
+00:15:46,471 --> 00:15:49,933
+that dragons sleep most of the time
+and rarely move about.
+
+263
+00:15:49,933 --> 00:15:53,937
+But based on what the orcs told us
+and the current situation,
+
+264
+00:15:53,937 --> 00:15:55,939
+it's still on the move.
+
+265
+00:15:55,939 --> 00:15:58,441
+It's likely roaming
+around this area even now.
+
+266
+00:15:59,025 --> 00:16:01,820
+We might've had a chance
+against a sleeping dragon.
+
+267
+00:16:01,820 --> 00:16:04,948
+But do you really think we could defeat it
+with our current strength?
+
+268
+00:16:05,532 --> 00:16:07,200
+What if we lose again?
+
+269
+00:16:07,200 --> 00:16:09,452
+What if she's already digested?
+
+270
+00:16:09,452 --> 00:16:10,870
+Calm down.
+
+271
+00:16:10,870 --> 00:16:12,163
+We don't know that yet.
+
+272
+00:16:12,163 --> 00:16:13,957
+Let's figure out a plan first.
+
+273
+00:16:13,957 --> 00:16:15,875
+But taking on the dragon
+
+274
+00:16:15,875 --> 00:16:18,461
+with just the three of you
+is gonna be tough.
+
+275
+00:16:19,337 --> 00:16:20,672
+The three of us?
+
+276
+00:16:22,549 --> 00:16:26,469
+I keep telling you this,
+but don't count on me to help in combat!
+
+277
+00:16:26,469 --> 00:16:29,472
+My only job
+is to get you to your destination!
+
+278
+00:16:29,472 --> 00:16:30,849
+We know that.
+
+279
+00:16:30,849 --> 00:16:32,767
+We're not blaming you.
+
+280
+00:16:32,767 --> 00:16:34,978
+M-My mistake then.
+
+281
+00:16:34,978 --> 00:16:38,398
+How have you defeated dragons in the past?
+
+282
+00:16:38,398 --> 00:16:41,359
+It depends on the time, circumstances,
+and the type of dragon.
+
+283
+00:16:41,943 --> 00:16:44,863
+<i>But usually, Falin casts a spell
+to protect against fire and harm.</i>
+
+284
+00:16:44,863 --> 00:16:47,407
+<i>Then, Namari, Shuro, and I
+work to slow it down.</i>
+
+285
+00:16:47,407 --> 00:16:50,368
+<i>Marcille weakens the dragon
+with explosive spells.</i>
+
+286
+00:16:50,368 --> 00:16:53,371
+<i>Finally, Shuro strikes the killing blow
+when the opportunity arises.</i>
+
+287
+00:16:53,371 --> 00:16:56,040
+I think that's how it usually goes.
+
+288
+00:16:57,000 --> 00:16:59,878
+Of course, it was only possible
+because of that team.
+
+289
+00:16:59,878 --> 00:17:03,381
+Now, we have to figure out a plan
+for just the three of us.
+
+290
+00:17:03,965 --> 00:17:06,843
+<i>Dragons are resistant
+to spells and weapons.</i>
+
+291
+00:17:06,843 --> 00:17:10,013
+<i>It's because they're covered
+in steel-like scales.</i>
+
+292
+00:17:10,013 --> 00:17:12,140
+<i>Their only weak spot
+where you can land a killing blow</i>
+
+293
+00:17:12,140 --> 00:17:14,768
+<i>is the underside of their neck.</i>
+
+294
+00:17:14,768 --> 00:17:16,895
+Stab it there, and we win!
+
+295
+00:17:16,895 --> 00:17:18,521
+The underside of their neck, huh?
+
+296
+00:17:18,521 --> 00:17:22,150
+How large is this Red Dragon?
+
+297
+00:17:22,150 --> 00:17:23,735
+Let's see...
+
+298
+00:17:24,360 --> 00:17:25,779
+Look over there.
+
+299
+00:17:25,779 --> 00:17:27,739
+See that half-collapsed walkway?
+
+300
+00:17:27,739 --> 00:17:29,407
+It's about that tall.
+
+301
+00:17:29,407 --> 00:17:30,533
+I mean,
+
+302
+00:17:30,533 --> 00:17:33,745
+isn't it broken
+because the dragon bumped its head on it?
+
+303
+00:17:33,745 --> 00:17:35,288
+You're right.
+
+304
+00:17:35,288 --> 00:17:36,748
+It's massive.
+
+305
+00:17:36,748 --> 00:17:40,418
+Striking it at that height
+is almost impossible.
+
+306
+00:17:40,418 --> 00:17:42,045
+That's exactly the problem.
+
+307
+00:17:43,630 --> 00:17:46,007
+Let's make our way to the walkway.
+
+308
+00:17:48,510 --> 00:17:49,969
+It's so high.
+
+309
+00:17:49,969 --> 00:17:52,472
+What if we try jumping
+onto the dragon's neck from here?
+
+310
+00:17:52,472 --> 00:17:54,557
+- No way!
+- Forget it.
+
+311
+00:17:54,557 --> 00:17:56,893
+I can cast defense spells,
+
+312
+00:17:56,893 --> 00:17:59,020
+but I'm not as skilled as Falin.
+
+313
+00:17:59,020 --> 00:18:01,898
+I can't protect you
+from a fall from this height
+
+314
+00:18:01,898 --> 00:18:03,566
+or from fire breath.
+
+315
+00:18:03,566 --> 00:18:06,444
+Yeah, what about its fire breath?
+
+316
+00:18:06,444 --> 00:18:08,071
+Up here, there's nowhere for us to run.
+
+317
+00:18:08,071 --> 00:18:10,448
+And according to Namari,
+
+318
+00:18:10,448 --> 00:18:12,951
+Senshi's axe won't even
+make a dent in the dragon.
+
+319
+00:18:12,951 --> 00:18:15,703
+Are you sure your sword
+can hurt it, Laios?
+
+320
+00:18:15,703 --> 00:18:19,415
+To cast an explosive spell
+strong enough to stun a dragon,
+
+321
+00:18:19,415 --> 00:18:21,876
+I'll need you to buy me a lot of time.
+
+322
+00:18:21,876 --> 00:18:24,712
+On top of that,
+someone needs to land the killing blow.
+
+323
+00:18:25,296 --> 00:18:28,258
+Can you and Senshi handle all that?
+
+324
+00:18:28,258 --> 00:18:30,135
+We'll find a way somehow.
+
+325
+00:18:30,135 --> 00:18:31,511
+How?
+
+326
+00:18:34,806 --> 00:18:36,599
+Rather than aiming for its head,
+
+327
+00:18:36,599 --> 00:18:39,352
+what if we blow up a building?
+
+328
+00:18:39,936 --> 00:18:44,357
+There are a lot of bridges and walkways
+between buildings here.
+
+329
+00:18:44,357 --> 00:18:47,110
+We could set off an explosion
+just as the dragon passes underneath.
+
+330
+00:18:47,110 --> 00:18:49,654
+The debris will trap the dragon,
+
+331
+00:18:49,654 --> 00:18:51,823
+bringing its weak spot within reach.
+
+332
+00:18:51,823 --> 00:18:54,367
+Then, we could strike
+without worrying about a counterattack.
+
+333
+00:18:55,660 --> 00:18:59,372
+It's true that the two of us can't buy you
+enough time to set up your spell.
+
+334
+00:18:59,372 --> 00:19:02,876
+But we could make a run for it
+and lead the dragon on a chase.
+
+335
+00:19:03,459 --> 00:19:06,045
+The streets here are
+too narrow for the Red Dragon,
+
+336
+00:19:06,045 --> 00:19:08,882
+and it's probably feeling worn out
+after all its activity.
+
+337
+00:19:08,882 --> 00:19:12,802
+If we lead it along the right path,
+we could tire it out even more.
+
+338
+00:19:12,802 --> 00:19:14,137
+I see.
+
+339
+00:19:14,137 --> 00:19:15,555
+I could help with that.
+
+340
+00:19:15,555 --> 00:19:16,514
+Really?
+
+341
+00:19:17,182 --> 00:19:19,642
+Thank you! You're the best!
+
+342
+00:19:19,642 --> 00:19:22,353
+Still, why isn't it sleeping?
+
+343
+00:19:22,353 --> 00:19:24,647
+Its appearance on the fifth floor
+is a mystery, too.
+
+344
+00:19:24,647 --> 00:19:27,942
+It's persistently prowling
+these narrow streets that it dislikes.
+
+345
+00:19:27,942 --> 00:19:30,028
+Could it be its mating season?
+
+346
+00:19:30,028 --> 00:19:31,029
+No...
+
+347
+00:19:31,613 --> 00:19:33,531
+Hey, didn't Namari mention something
+
+348
+00:19:33,531 --> 00:19:35,783
+about Senshi's pot
+being made of seriously tough metal?
+
+349
+00:19:36,367 --> 00:19:37,368
+What was it again?
+
+350
+00:19:37,368 --> 00:19:40,872
+"It shields against a dragon's something
+and can shatter a dragon's something."
+
+351
+00:19:41,497 --> 00:19:42,498
+You're right!
+
+352
+00:19:42,498 --> 00:19:44,792
+She said every blacksmith dreams of it!
+
+353
+00:19:44,792 --> 00:19:46,711
+If it shields
+against a dragon's something,
+
+354
+00:19:46,711 --> 00:19:47,962
+it's gotta be fire breath!
+
+355
+00:19:48,796 --> 00:19:51,424
+Well, that solves the fire breath problem.
+
+356
+00:19:51,424 --> 00:19:54,302
+Isn't your cooking knife
+made from special metal, too?
+
+357
+00:19:54,886 --> 00:19:57,430
+We should've had Namari take a look at it.
+
+358
+00:19:57,430 --> 00:19:59,766
+I'm feeling pretty hopeful now.
+
+359
+00:19:59,766 --> 00:20:02,435
+When you put your mind to it,
+a way opens, huh?
+
+360
+00:20:02,435 --> 00:20:03,394
+All right!
+
+361
+00:20:03,394 --> 00:20:05,563
+Let's do our research
+to map out our luring route!
+
+362
+00:20:24,916 --> 00:20:26,042
+So, you're back.
+
+363
+00:20:26,042 --> 00:20:29,337
+Senshi, you slipped away
+without a heads-up!
+
+364
+00:20:29,337 --> 00:20:30,838
+I was making bread.
+
+365
+00:20:30,838 --> 00:20:33,716
+Did you have to do it right before
+we're facing a dragon?
+
+366
+00:20:33,716 --> 00:20:35,260
+Absolutely.
+
+367
+00:20:35,260 --> 00:20:37,387
+We have a big mission ahead,
+
+368
+00:20:37,387 --> 00:20:39,722
+and the most important thing
+is to fill our stomachs.
+
+369
+00:20:41,307 --> 00:20:44,894
+We lost to the Red Dragon
+because of hunger once.
+
+370
+00:20:44,894 --> 00:20:47,313
+We shouldn't make the same mistake, right?
+
+371
+00:20:48,064 --> 00:20:49,482
+Wine!
+
+372
+00:20:49,482 --> 00:20:52,485
+I humbly took some from the pantry.
+
+373
+00:20:53,861 --> 00:20:55,780
+Save it for after we defeat the dragon.
+
+374
+00:20:55,780 --> 00:20:57,949
+We're missing eggs,
+
+375
+00:20:57,949 --> 00:21:00,368
+but these should be enough
+to make that dish.
+
+376
+00:21:02,370 --> 00:21:04,789
+Grate the bread into crumbs,
+
+377
+00:21:04,789 --> 00:21:08,543
+and marinate the Giant Frog meat
+with salt and pepper.
+
+378
+00:21:08,543 --> 00:21:11,546
+Dip it in a water and flour batter,
+
+379
+00:21:11,546 --> 00:21:13,047
+and coat it with bread crumbs.
+
+380
+00:21:13,047 --> 00:21:16,050
+Heat up some olive oil, and deep fry.
+
+381
+00:21:18,636 --> 00:21:22,807
+Boil down red wine
+with seasoning to make a sauce.
+
+382
+00:21:25,643 --> 00:21:27,145
+It's done!
+
+383
+00:21:27,145 --> 00:21:29,564
+CUTLETS TO CONQUER THE RED DRAGON
+
+384
+00:21:29,564 --> 00:21:30,898
+That looks amazing!
+
+385
+00:21:30,898 --> 00:21:33,818
+The smell is making me hungry.
+
+386
+00:21:33,818 --> 00:21:35,820
+- Let's dig in!
+- Let's dig in!
+
+387
+00:21:37,655 --> 00:21:38,823
+It's so crispy!
+
+388
+00:21:42,744 --> 00:21:43,953
+Are you okay, Marcille?
+
+389
+00:21:44,662 --> 00:21:47,248
+The thought of not having
+to eat monsters soon
+
+390
+00:21:47,248 --> 00:21:48,583
+is making me emotional.
+
+391
+00:21:48,583 --> 00:21:51,085
+There's still the Red Dragon, though.
+
+392
+00:21:56,674 --> 00:21:57,800
+Listen,
+
+393
+00:21:57,800 --> 00:21:59,844
+there's something
+I want to say to you all.
+
+394
+00:22:00,428 --> 00:22:03,347
+I doubt I could've made it
+all this way on my own.
+
+395
+00:22:03,347 --> 00:22:06,100
+Senshi, thank you so much.
+
+396
+00:22:06,100 --> 00:22:08,978
+You were kind
+to complete strangers like us.
+
+397
+00:22:08,978 --> 00:22:11,356
+Your excellent cooking
+not only satisfied our hunger
+
+398
+00:22:11,356 --> 00:22:13,483
+but it lifted our spirits as well.
+
+399
+00:22:14,192 --> 00:22:16,903
+Chilchuck, without you,
+we would've had to take multiple detours,
+
+400
+00:22:16,903 --> 00:22:18,696
+which would have caused days of delay.
+
+401
+00:22:18,696 --> 00:22:21,115
+Above all, you were dependable.
+
+402
+00:22:21,115 --> 00:22:22,950
+And Marcille,
+
+403
+00:22:22,950 --> 00:22:25,661
+I'm sorry for the tough time you had
+on this unfamiliar journey.
+
+404
+00:22:25,661 --> 00:22:29,123
+When you said you'd join me,
+I was so moved.
+
+405
+00:22:29,707 --> 00:22:32,835
+Everyone, thank you so much.
+
+406
+00:22:36,464 --> 00:22:37,965
+- S-Sure.
+- S-Sure.
+
+407
+00:22:37,965 --> 00:22:39,008
+Poor timing!
+
+408
+00:22:39,592 --> 00:22:40,510
+Sorry.
+
+409
+00:22:43,846 --> 00:22:45,014
+What's this?
+
+410
+00:23:02,615 --> 00:23:05,159
+Seeing it again, it really is huge.
+
+411
+00:23:05,159 --> 00:23:08,621
+Could we really defeat it?
+
+412
+00:23:09,997 --> 00:23:10,957
+Don't worry.
+
+413
+00:23:10,957 --> 00:23:13,459
+The four of us have made it this far.
+
+414
+00:23:13,459 --> 00:23:16,921
+As per the plan,
+Marcille will take her position,
+
+415
+00:23:16,921 --> 00:23:19,215
+and we'll lure the dragon!
+
+416
+00:23:19,215 --> 00:23:21,217
+Is everyone ready?
+
+417
+00:23:21,217 --> 00:23:23,219
+Is everyone in good shape?
+
+418
+00:23:24,053 --> 00:23:25,304
+All right.
+
+419
+00:23:26,097 --> 00:23:27,348
+Let's go!
+

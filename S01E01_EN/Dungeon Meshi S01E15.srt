@@ -1,0 +1,1917 @@
+﻿1
+00:00:21,969 --> 00:00:23,846
+MỸ VỊ HẦM NGỤC
+
+2
+00:01:30,788 --> 00:01:31,872
+Dammit!
+
+3
+00:01:31,956 --> 00:01:32,998
+What the hell?
+
+4
+00:01:33,082 --> 00:01:35,751
+This wall wasn't here on our way down!
+
+5
+00:01:37,086 --> 00:01:38,212
+Another earthquake?
+
+6
+00:01:38,796 --> 00:01:40,005
+Not an earthquake.
+
+7
+00:01:40,589 --> 00:01:42,633
+The dungeon is shifting
+and changing its layout.
+
+8
+00:01:43,134 --> 00:01:45,636
+It's probably that magician's doing.
+
+9
+00:01:45,719 --> 00:01:48,389
+Maybe he's on the lookout for us.
+
+10
+00:01:48,472 --> 00:01:52,685
+You mean he's been making us
+wander around in circles this whole time?
+
+11
+00:01:53,477 --> 00:01:55,396
+Maybe it's worth taking a little risk.
+
+12
+00:01:55,980 --> 00:01:57,148
+Give me a minute.
+
+13
+00:02:05,489 --> 00:02:06,907
+It's gone now.
+
+14
+00:02:08,701 --> 00:02:11,745
+Climbing over walls
+might not be a smart move.
+
+15
+00:02:12,246 --> 00:02:14,248
+Guess we'll have to pick our way out.
+
+16
+00:02:16,500 --> 00:02:19,545
+Anyway, is it just me...
+
+17
+00:02:20,754 --> 00:02:22,840
+or is the city starting to bustle?
+
+18
+00:02:23,424 --> 00:02:24,842
+With the Red Dragon dead,
+
+19
+00:02:24,925 --> 00:02:27,052
+the lurking monsters
+are starting to show themselves.
+
+20
+00:02:27,636 --> 00:02:29,805
+This level was originally
+crawling with monsters.
+
+21
+00:02:30,472 --> 00:02:32,725
+We're lucky we didn't
+bump into any until now.
+
+22
+00:02:35,644 --> 00:02:37,438
+Hey, are you okay?
+
+23
+00:02:39,273 --> 00:02:40,274
+<i>This isn't good.</i>
+
+24
+00:02:40,357 --> 00:02:42,651
+<i>We've been trekking without a break,</i>
+
+25
+00:02:42,735 --> 00:02:44,778
+<i>and we haven't had
+a decent meal since that Dragon.</i>
+
+26
+00:02:45,279 --> 00:02:47,531
+<i>How old is Laios?</i>
+
+27
+00:02:47,615 --> 00:02:50,659
+<i>I'm not sure if he's getting up there
+or still in his youth,</i>
+
+28
+00:02:51,160 --> 00:02:54,538
+<i>but Chilchuck and Marcille
+are likely still growing.</i>
+
+29
+00:02:54,622 --> 00:02:55,456
+Come on.
+
+30
+00:02:55,539 --> 00:03:01,045
+<i>It's downright shameful not being able
+to provide them with proper meals.</i>
+
+31
+00:03:01,128 --> 00:03:02,296
+<i>I must feed them.</i>
+
+32
+00:03:02,379 --> 00:03:04,298
+<i>The youngsters must be fed.</i>
+
+33
+00:03:04,381 --> 00:03:05,841
+<i>I must feed them!</i>
+
+34
+00:03:07,509 --> 00:03:09,386
+What's that sweet smell?
+
+35
+00:03:09,470 --> 00:03:11,096
+Is it food?
+
+36
+00:03:11,180 --> 00:03:13,599
+No, it smells like flowers.
+
+37
+00:03:14,308 --> 00:03:17,937
+Where there are flowers,
+there's usually water.
+
+38
+00:03:18,020 --> 00:03:19,438
+Track it down for us, Chil!
+
+39
+00:03:19,521 --> 00:03:20,648
+On it!
+
+40
+00:03:24,485 --> 00:03:27,529
+Is this place a graveyard or something?
+
+41
+00:03:30,115 --> 00:03:32,159
+Wait, someone's there.
+
+42
+00:03:38,582 --> 00:03:39,625
+Don't look!
+
+43
+00:03:42,503 --> 00:03:44,046
+W-We beg your pardon.
+
+44
+00:03:44,129 --> 00:03:45,923
+Hey, Senshi! Let go of me!
+
+45
+00:03:48,550 --> 00:03:49,551
+Get back, Senshi!
+
+46
+00:03:55,099 --> 00:03:56,058
+What's this?
+
+47
+00:03:56,141 --> 00:03:57,059
+Draw your weapon!
+
+48
+00:03:57,142 --> 00:03:59,311
+These creatures aren't human.
+
+49
+00:03:59,395 --> 00:04:01,563
+They're Dryad flowers!
+
+50
+00:04:01,647 --> 00:04:04,024
+Then what's this body fluid?
+
+51
+00:04:04,108 --> 00:04:05,818
+<i>It was not a liquid.</i>
+
+52
+00:04:06,318 --> 00:04:09,321
+<i>Tiny particles entered the body
+through the respiratory system,</i>
+
+53
+00:04:09,405 --> 00:04:10,948
+<i>sticking to the mucous membrane.</i>
+
+54
+00:04:11,865 --> 00:04:15,703
+<i>The body recognized
+these particles as poison</i>
+
+55
+00:04:16,287 --> 00:04:20,624
+<i>and kicked the immune system into gear,
+immediately attempting to flush them out.</i>
+
+56
+00:04:21,250 --> 00:04:22,084
+<i>This is known as...</i>
+
+57
+00:04:25,254 --> 00:04:26,463
+<i>hay fever.</i>
+
+58
+00:04:26,547 --> 00:04:28,590
+Ugh, gross!
+
+59
+00:04:28,674 --> 00:04:29,758
+It hurts!
+
+60
+00:04:31,051 --> 00:04:32,803
+{\an8}It's the Dryads' pollen!
+
+61
+00:04:33,345 --> 00:04:35,556
+This is bad. Don't breathe it!
+
+62
+00:04:40,060 --> 00:04:41,353
+This isn't good.
+
+63
+00:04:41,437 --> 00:04:43,230
+I can't stop crying.
+
+64
+00:04:47,818 --> 00:04:48,652
+Get up!
+
+65
+00:04:48,736 --> 00:04:50,154
+Pull yourself together, Senshi!
+
+66
+00:04:50,946 --> 00:04:52,239
+Laios!
+
+67
+00:04:52,323 --> 00:04:54,366
+- Kensuke...
+- Dammit!
+
+68
+00:04:54,950 --> 00:04:56,368
+My eyes are acting up too...
+
+69
+00:04:58,329 --> 00:05:00,122
+Senshi, reach out your hand!
+
+70
+00:05:00,706 --> 00:05:03,584
+On three, use it to strike behind you!
+
+71
+00:05:04,084 --> 00:05:05,002
+One,
+
+72
+00:05:05,586 --> 00:05:06,670
+two...
+
+73
+00:05:07,713 --> 00:05:08,589
+Three!
+
+74
+00:05:15,179 --> 00:05:17,931
+Damn, my eyes are starting to itch too.
+
+75
+00:05:18,015 --> 00:05:19,266
+I can't see.
+
+76
+00:05:27,524 --> 00:05:28,734
+Run, Senshi!
+
+77
+00:05:28,817 --> 00:05:29,651
+No!
+
+78
+00:05:29,735 --> 00:05:32,780
+It is my duty to protect the youngsters!
+
+79
+00:05:32,863 --> 00:05:34,156
+Are you serious?
+
+80
+00:05:34,239 --> 00:05:35,074
+Chilchuck!
+
+81
+00:05:35,574 --> 00:05:37,284
+Be my eyes!
+
+82
+00:05:37,367 --> 00:05:39,620
+I can't. I can't see anything!
+
+83
+00:05:39,703 --> 00:05:41,955
+You have sharper senses!
+
+84
+00:05:43,248 --> 00:05:44,666
+<i>Smell?</i>
+
+85
+00:05:44,750 --> 00:05:48,170
+<i>No, the smell of pollen
+is too overpowering.</i>
+
+86
+00:05:48,754 --> 00:05:49,588
+<i>Hearing?</i>
+
+87
+00:05:50,756 --> 00:05:52,800
+<i>Senshi's sneezing too loud.</i>
+
+88
+00:05:52,883 --> 00:05:56,053
+<i>I can't rely on my sight,
+smell, or hearing.</i>
+
+89
+00:05:57,888 --> 00:05:59,014
+<i>The wind!</i>
+
+90
+00:06:00,766 --> 00:06:03,352
+{\an8}It avoided your sneeze
+and retreated diagonally to the right.
+
+91
+00:06:03,435 --> 00:06:05,395
+Senshi, swing up now!
+
+92
+00:06:13,487 --> 00:06:14,863
+Kensuke...
+
+93
+00:06:17,449 --> 00:06:19,243
+<i>My staff is completely broken in half.</i>
+
+94
+00:06:19,326 --> 00:06:22,996
+<i>I've got to mend it and infuse it
+with magic quickly before it withers away.</i>
+
+95
+00:06:23,080 --> 00:06:26,792
+<i>It took me years to nurture it
+to its current state...</i>
+
+96
+00:06:30,337 --> 00:06:32,756
+I-It's safe in there.
+
+97
+00:06:32,840 --> 00:06:33,882
+Don't lie!
+
+98
+00:06:34,967 --> 00:06:37,511
+You fought against Dryad flowers?
+
+99
+00:06:38,095 --> 00:06:39,596
+That must've been tough.
+
+100
+00:06:39,680 --> 00:06:41,765
+I didn't think they were flower monsters.
+
+101
+00:06:41,849 --> 00:06:45,018
+I totally thought they were
+male and female humans.
+
+102
+00:06:45,602 --> 00:06:47,146
+Dryads are unisexual flowers,
+
+103
+00:06:47,229 --> 00:06:49,106
+so you're right about them
+being male and female.
+
+104
+00:06:49,982 --> 00:06:51,275
+Just maybe...
+
+105
+00:06:51,358 --> 00:06:52,901
+{\an8}What will you do about him?
+
+106
+00:06:52,985 --> 00:06:55,279
+{\an8}Shouldn't we stop him by force?
+
+107
+00:06:55,362 --> 00:06:59,366
+{\an8}But we can't afford to be picky anymore.
+
+108
+00:06:59,449 --> 00:07:03,662
+{\an8}At this point, does it really matter
+if the flower resembles a human?
+
+109
+00:07:03,745 --> 00:07:05,080
+Marci--
+
+110
+00:07:06,707 --> 00:07:08,542
+I found some!
+
+111
+00:07:08,625 --> 00:07:10,878
+Dryad fruits!
+
+112
+00:07:11,879 --> 00:07:13,881
+How to turn back time...
+
+113
+00:07:13,964 --> 00:07:16,800
+Stop hunting for shady magic
+like it's no big deal!
+
+114
+00:07:16,884 --> 00:07:20,220
+Your black magic jokes aren't funny!
+
+115
+00:07:21,013 --> 00:07:25,309
+The last Dryad I took out
+didn't release any pollen.
+
+116
+00:07:25,893 --> 00:07:27,144
+{\an8}It must've been a female flower.
+
+117
+00:07:27,728 --> 00:07:31,482
+{\an8}Flowers before pollination
+care for and protect their fruits.
+
+118
+00:07:32,774 --> 00:07:34,776
+I found some more
+fruit-like things over here.
+
+119
+00:07:36,445 --> 00:07:37,779
+Those are buds.
+
+120
+00:07:37,863 --> 00:07:40,282
+They'll eventually grow
+into Dryad flowers.
+
+121
+00:07:40,949 --> 00:07:43,785
+These seem easier
+to eat than those fruits.
+
+122
+00:07:44,286 --> 00:07:45,829
+They might be pretty tasty.
+
+123
+00:07:46,413 --> 00:07:47,247
+Let's harvest them.
+
+124
+00:07:50,000 --> 00:07:52,044
+Don't pick too many.
+
+125
+00:07:54,421 --> 00:07:55,255
+Okay.
+
+126
+00:07:56,798 --> 00:07:58,342
+There are Mandrakes here.
+
+127
+00:07:58,425 --> 00:08:00,302
+We don't have time to get a dog,
+
+128
+00:08:00,385 --> 00:08:02,262
+so I'll just chop its head off
+if you don't mind.
+
+129
+00:08:02,763 --> 00:08:05,599
+Shut up. When are you going
+to let me live that down?
+
+130
+00:08:07,684 --> 00:08:10,437
+It's a pretty decent harvest.
+
+131
+00:08:10,521 --> 00:08:13,565
+Good thing I borrowed
+an axe from the orcs!
+
+132
+00:08:15,567 --> 00:08:19,613
+<i>Put the chopped ingredients
+into a pot with water and let it stew.</i>
+
+133
+00:08:20,197 --> 00:08:22,866
+<i>When the ingredients are soft,
+remove from heat</i>
+
+134
+00:08:22,950 --> 00:08:25,118
+<i>and mash them inside the pot.</i>
+
+135
+00:08:25,202 --> 00:08:30,374
+<i>Once they turn into a paste,
+add more water and seasoning.</i>
+
+136
+00:08:36,588 --> 00:08:38,173
+Smells delightful.
+
+137
+00:08:38,257 --> 00:08:39,383
+I have an idea.
+
+138
+00:08:40,092 --> 00:08:43,470
+<i>Sauté them lightly with butter
+and throw in some mushrooms.</i>
+
+139
+00:08:44,471 --> 00:08:47,391
+<i>Pour melted cheese on top,</i>
+
+140
+00:08:47,474 --> 00:08:48,642
+<i>and it's done!</i>
+
+141
+00:08:48,725 --> 00:08:51,395
+JACK-O'-LANTERN POTAGE AND
+SAUTÉED DRYAD BUDS WITH CHEESE
+
+142
+00:08:51,979 --> 00:08:53,689
+Did you have to put the soup in that?
+
+143
+00:08:53,772 --> 00:08:56,900
+I thought it might aid
+in restoring your magic a little.
+
+144
+00:08:56,984 --> 00:09:00,279
+Don't think you can excuse it
+just because you meant well.
+
+145
+00:09:00,904 --> 00:09:02,114
+I'll try it, though.
+
+146
+00:09:03,365 --> 00:09:04,491
+<i>It's sweet!</i>
+
+147
+00:09:04,575 --> 00:09:06,243
+<i>It has a light floral fragrance.</i>
+
+148
+00:09:06,326 --> 00:09:08,495
+<i>It's rich and creamy,
+but melts in your mouth.</i>
+
+149
+00:09:08,996 --> 00:09:10,455
+<i>I love this.</i>
+
+150
+00:09:11,498 --> 00:09:13,125
+What an appalling sight.
+
+151
+00:09:17,754 --> 00:09:20,340
+The sourness of the cheese
+pairs nicely with this.
+
+152
+00:09:20,424 --> 00:09:23,010
+I like the bitter tang the buds have.
+
+153
+00:09:24,177 --> 00:09:27,306
+Anyway, how do we
+even get out of this dungeon?
+
+154
+00:09:27,389 --> 00:09:29,558
+What if we never find our way out?
+
+155
+00:09:30,142 --> 00:09:33,145
+{\an8}If all the routes
+to the surface are blocked,
+
+156
+00:09:33,228 --> 00:09:36,023
+{\an8}it would disrupt the flow of magic,
+so that's unlikely.
+
+157
+00:09:36,523 --> 00:09:38,650
+There has to be a way out somewhere.
+
+158
+00:09:40,277 --> 00:09:42,863
+Are there any patterns
+to the shifts in the dungeon?
+
+159
+00:09:43,363 --> 00:09:44,197
+There must be!
+
+160
+00:09:44,281 --> 00:09:46,700
+Let's note down the timings
+and locations of the rumblings.
+
+161
+00:09:46,783 --> 00:09:48,744
+I'm starting to feel hopeful.
+
+162
+00:09:48,827 --> 00:09:52,039
+A full stomach does wonders
+for optimism, doesn't it?
+
+163
+00:09:56,668 --> 00:09:58,754
+I'm starting to feel warmer.
+
+164
+00:09:58,837 --> 00:10:01,089
+I think some of my magic is returning.
+
+165
+00:10:01,673 --> 00:10:04,426
+Laios and Senshi,
+I need to heal your injuries.
+
+166
+00:10:04,509 --> 00:10:06,219
+You shouldn't overexert yourself.
+
+167
+00:10:06,303 --> 00:10:07,429
+I won't.
+
+168
+00:10:07,929 --> 00:10:10,891
+Laios, you'll be the one doing the work.
+
+169
+00:10:11,808 --> 00:10:14,227
+I'll teach you some magic.
+
+170
+00:10:14,311 --> 00:10:18,482
+I can't protect all of you
+from the lunatic magician by myself.
+
+171
+00:10:18,565 --> 00:10:22,319
+If you can use healing and defense magic,
+it would help a lot.
+
+172
+00:10:23,570 --> 00:10:25,364
+Falin has taught you the basics, right?
+
+173
+00:10:25,906 --> 00:10:26,865
+Sort of.
+
+174
+00:10:26,948 --> 00:10:29,618
+She specializes in the gnome magic system,
+
+175
+00:10:29,701 --> 00:10:32,871
+{\an8}which is a bit different
+from the one I use.
+
+176
+00:10:33,455 --> 00:10:35,916
+But the fundamentals are similar,
+so you'll catch on.
+
+177
+00:10:35,999 --> 00:10:38,251
+{\an8}I'll drum it into you in no time.
+
+178
+00:10:40,671 --> 00:10:43,006
+We need to become stronger.
+
+179
+00:10:46,385 --> 00:10:48,553
+Those two are too optimistic.
+
+180
+00:10:49,096 --> 00:10:51,932
+When you're young, that's just right.
+
+181
+00:10:53,475 --> 00:10:56,103
+Would you stop treating me like a child?
+
+182
+00:10:56,186 --> 00:10:57,521
+It's embarrassing!
+
+183
+00:10:57,604 --> 00:11:00,774
+{\an8}Why did you cover my eyes
+in front of the monsters anyway?
+
+184
+00:11:00,857 --> 00:11:02,442
+It helped in hindsight, but still!
+
+185
+00:11:03,860 --> 00:11:06,029
+Well, Chilchuck...
+
+186
+00:11:06,113 --> 00:11:09,616
+You mentioned your father had passed away.
+
+187
+00:11:10,158 --> 00:11:11,952
+What about it?
+
+188
+00:11:12,035 --> 00:11:12,911
+I see.
+
+189
+00:11:13,662 --> 00:11:17,082
+This seems like a good opportunity,
+so I'll teach you something.
+
+190
+00:11:18,041 --> 00:11:19,835
+Take a seat.
+
+191
+00:11:20,961 --> 00:11:23,797
+You're probably getting to that age
+where you're starting to get curious,
+
+192
+00:11:23,880 --> 00:11:27,217
+but it's important
+to have the correct information.
+
+193
+00:11:27,926 --> 00:11:29,052
+What's this about?
+
+194
+00:11:29,594 --> 00:11:30,762
+You see, humans
+
+195
+00:11:30,846 --> 00:11:32,681
+also have stamens and pistils.
+
+196
+00:11:34,391 --> 00:11:36,059
+That's not it! Again!
+
+197
+00:11:36,143 --> 00:11:37,811
+Pay attention!
+
+198
+00:11:38,645 --> 00:11:42,357
+<i>And so, they passed the night away.</i>
+
+199
+00:11:45,068 --> 00:11:46,278
+Come on. Hurry.
+
+200
+00:11:52,742 --> 00:11:53,660
+Not like that!
+
+201
+00:11:55,120 --> 00:11:57,456
+I didn't want to touch you in a weird way.
+
+202
+00:11:57,539 --> 00:11:59,541
+Don't let stuff like that bother you!
+
+203
+00:12:00,125 --> 00:12:01,251
+{\an8}Give me your left hand.
+
+204
+00:12:03,253 --> 00:12:05,922
+See? Just like this.
+
+205
+00:12:07,507 --> 00:12:10,010
+Feeling embarrassed won't help you
+improve your magic skills.
+
+206
+00:12:10,093 --> 00:12:11,803
+Now focus!
+
+207
+00:12:12,596 --> 00:12:16,224
+Be mindful of the magic
+coursing through your body,
+
+208
+00:12:16,308 --> 00:12:17,851
+like blood through your veins.
+
+209
+00:12:18,435 --> 00:12:20,312
+Let it flow through
+the palms of your hands,
+
+210
+00:12:20,979 --> 00:12:24,524
+from the top of your head
+to the tips of my toes.
+
+211
+00:12:25,275 --> 00:12:28,403
+Sync your breathing,
+temperature, and pulse with mine.
+
+212
+00:12:28,945 --> 00:12:32,449
+Once you're ready, repeat after me.
+
+213
+00:12:33,033 --> 00:12:34,576
+{\an8}<i>-Sperae...
+- Sperae...</i>
+
+214
+00:12:34,659 --> 00:12:36,578
+{\an8}<i>-Yeptum...
+- Yeptum...</i>
+
+215
+00:12:36,661 --> 00:12:38,705
+{\an8}<i>-Rufermus...
+- Rufermus...</i>
+
+216
+00:12:38,788 --> 00:12:40,165
+{\an8}<i>-Vilal...
+- Vilal...</i>
+
+217
+00:12:40,248 --> 00:12:42,417
+<i>- Eurekant...
+- Eurekant...</i>
+
+218
+00:12:42,501 --> 00:12:44,419
+<i>- Oonzu...
+- Oonzu...</i>
+
+219
+00:12:45,295 --> 00:12:46,171
+That's itchy!
+
+220
+00:12:47,672 --> 00:12:49,633
+It's itching like crazy!
+
+221
+00:12:49,716 --> 00:12:50,884
+A-Are you okay?
+
+222
+00:12:51,885 --> 00:12:53,553
+My scab came off.
+
+223
+00:12:54,638 --> 00:12:55,972
+It worked!
+
+224
+00:12:56,056 --> 00:12:57,140
+You did it, Laios!
+
+225
+00:12:57,224 --> 00:12:58,350
+{\an8}Really?
+
+226
+00:12:58,433 --> 00:13:00,227
+{\an8}You're bleeding, though.
+
+227
+00:13:00,310 --> 00:13:02,479
+This is normal for your first try.
+
+228
+00:13:02,562 --> 00:13:04,606
+But you're a fast learner.
+
+229
+00:13:04,689 --> 00:13:07,067
+Maybe you really do
+come from a talented line!
+
+230
+00:13:07,567 --> 00:13:10,737
+The way you explained things
+made it easy to understand.
+
+231
+00:13:11,279 --> 00:13:12,489
+Thanks.
+
+232
+00:13:13,240 --> 00:13:15,992
+Well then, before you forget this feeling,
+
+233
+00:13:16,076 --> 00:13:17,410
+let's try healing Senshi.
+
+234
+00:13:18,870 --> 00:13:21,706
+I'll be watching,
+so repeat what you did just now.
+
+235
+00:13:23,458 --> 00:13:25,752
+<i>Now, it's a temporary fix,</i>
+
+236
+00:13:25,835 --> 00:13:27,629
+<i>but I'll use Dryad twigs
+to repair my staff.</i>
+
+237
+00:13:27,712 --> 00:13:29,047
+<i>I hope it attaches.</i>
+
+238
+00:13:33,843 --> 00:13:35,554
+- That felt weird.
+- S-Sorry!
+
+239
+00:13:35,637 --> 00:13:37,639
+Like I said,
+don't let stuff like that bother you!
+
+240
+00:13:38,223 --> 00:13:39,641
+Don't be embarrassed.
+
+241
+00:13:39,724 --> 00:13:42,018
+Feeling shy
+is the biggest obstacle to progress!
+
+242
+00:13:43,103 --> 00:13:45,480
+Actually, you shouldn't
+underestimate things like that.
+
+243
+00:13:45,981 --> 00:13:49,901
+Healers interact a lot with people,
+which can cause difficulties.
+
+244
+00:13:50,527 --> 00:13:53,530
+The main reason parties break up
+is often due to relationship issues.
+
+245
+00:13:54,322 --> 00:13:56,908
+Falling in and out of love,
+envy, jealousy,
+
+246
+00:13:56,992 --> 00:13:58,410
+grudges and hatred.
+
+247
+00:13:58,493 --> 00:14:00,078
+They can be a real hassle.
+
+248
+00:14:00,787 --> 00:14:03,832
+Are you talking about Falin and Shuro?
+
+249
+00:14:03,915 --> 00:14:05,875
+I'm just speaking from my own experiences.
+
+250
+00:14:05,959 --> 00:14:10,297
+A leader needs the ability
+to unite people more than combat skills.
+
+251
+00:14:10,797 --> 00:14:13,925
+To be honest, I want Laios
+to focus on developing his social skills
+
+252
+00:14:14,009 --> 00:14:16,177
+and his ability to read people
+more than magic.
+
+253
+00:14:16,845 --> 00:14:20,098
+If he had done so, he wouldn't have
+unknowingly ended up
+
+254
+00:14:20,181 --> 00:14:21,641
+being an accomplice in black magic.
+
+255
+00:14:22,267 --> 00:14:26,146
+Well, Chilchuck, why don't you
+learn a bit about magic yourself?
+
+256
+00:14:26,229 --> 00:14:28,023
+Maybe your ignorance is making you afraid.
+
+257
+00:14:28,106 --> 00:14:30,025
+Well, sorry about that!
+
+258
+00:14:30,108 --> 00:14:33,778
+Many of my kin got kidnapped by elves
+and never came back,
+
+259
+00:14:33,862 --> 00:14:36,823
+just because they were involved
+with some black magic artifact.
+
+260
+00:14:36,907 --> 00:14:39,451
+That's why I never got the chance
+to learn more about magic.
+
+261
+00:14:39,534 --> 00:14:41,119
+So forgive me if I'm ignorant.
+
+262
+00:14:41,202 --> 00:14:44,831
+To sum up the ancient magic I'm studying,
+
+263
+00:14:44,915 --> 00:14:49,210
+it draws energy from another dimension
+where infinity exists.
+
+264
+00:14:49,294 --> 00:14:52,756
+<i>How do you turn a cup of water into vapor?</i>
+
+265
+00:14:52,839 --> 00:14:54,549
+<i>By bringing it to a boil.</i>
+
+266
+00:14:55,050 --> 00:14:58,970
+<i>Well then, how do you
+vaporize an entire lake?</i>
+
+267
+00:14:59,054 --> 00:15:00,805
+The theory is the same,
+
+268
+00:15:00,889 --> 00:15:02,849
+but actually doing it is a bit tricky.
+
+269
+00:15:03,683 --> 00:15:07,604
+<i>This magic would require
+an enormous amount of power and time.</i>
+
+270
+00:15:07,687 --> 00:15:09,356
+<i>So, you reinforce it
+with coordinate magic.</i>
+
+271
+00:15:09,898 --> 00:15:13,151
+This dungeon is connected
+to the other dimension at multiple points.
+
+272
+00:15:13,234 --> 00:15:17,572
+It's through this power that monsters
+are summoned and this dungeon is formed.
+
+273
+00:15:18,698 --> 00:15:22,702
+{\an8}Earlier, Falin no longer
+had the strength to revive herself.
+
+274
+00:15:23,203 --> 00:15:26,623
+<i>So I rewrote a section of the dungeon</i>
+
+275
+00:15:26,706 --> 00:15:30,126
+<i>to make her body a part of the dungeon.</i>
+
+276
+00:15:30,752 --> 00:15:32,379
+Only for a brief moment, of course.
+
+277
+00:15:35,215 --> 00:15:36,257
+Another rumbling.
+
+278
+00:15:36,341 --> 00:15:37,258
+It's close.
+
+279
+00:15:38,843 --> 00:15:40,011
+Look over there!
+
+280
+00:15:40,095 --> 00:15:41,346
+The wall is crumbling.
+
+281
+00:15:42,931 --> 00:15:44,265
+Where are the bricks going?
+
+282
+00:15:44,349 --> 00:15:46,059
+How about we take a closer look?
+
+283
+00:15:48,186 --> 00:15:49,145
+Huh?
+
+284
+00:15:50,355 --> 00:15:51,690
+What's wrong?
+
+285
+00:15:52,190 --> 00:15:53,650
+I-I suddenly feel dizzy.
+
+286
+00:15:54,234 --> 00:15:59,406
+You might be experiencing mana sickness
+because you used magic for the first time.
+
+287
+00:15:59,990 --> 00:16:01,908
+It should pass soon.
+
+288
+00:16:01,992 --> 00:16:03,034
+We're leaving you behind.
+
+289
+00:16:03,118 --> 00:16:04,494
+Stay put, okay?
+
+290
+00:16:05,245 --> 00:16:09,165
+<i>Whether my eyes are shut or open,
+all I see are lurid colors.</i>
+
+291
+00:16:10,000 --> 00:16:11,501
+<i>Help.</i>
+
+292
+00:16:11,584 --> 00:16:13,253
+<i>Let me die.</i>
+
+293
+00:16:13,336 --> 00:16:14,921
+<i>The magician...</i>
+
+294
+00:16:15,005 --> 00:16:18,341
+<i>Am I hallucinating? Am I hearing things?</i>
+
+295
+00:16:18,425 --> 00:16:21,636
+<i>Please, let me die.</i>
+
+296
+00:16:21,720 --> 00:16:24,889
+<i>Mana sickness sucks.</i>
+
+297
+00:16:28,143 --> 00:16:30,395
+The path is shifting.
+
+298
+00:16:31,730 --> 00:16:35,025
+It feels like we're starting to grasp
+a pattern, but then again, not quite.
+
+299
+00:16:36,276 --> 00:16:39,029
+We'll need to observe for a little longer.
+
+300
+00:16:39,112 --> 00:16:41,865
+It's frustrating that we can't
+make much progress, but...
+
+301
+00:16:44,075 --> 00:16:45,618
+The platform is rising!
+
+302
+00:16:45,702 --> 00:16:46,911
+Get off!
+
+303
+00:16:47,537 --> 00:16:48,413
+Ow!
+
+304
+00:16:48,496 --> 00:16:50,040
+{\an8}That was close.
+
+305
+00:16:50,123 --> 00:16:52,667
+We almost lost our way back.
+
+306
+00:16:56,755 --> 00:16:58,506
+<i>Carrier of a cruel, petrifying venom,</i>
+
+307
+00:16:58,590 --> 00:16:59,841
+<i>the Cockatrice.</i>
+
+308
+00:17:04,179 --> 00:17:06,014
+It's like a Basilisk!
+
+309
+00:17:06,097 --> 00:17:08,266
+But a Cockatrice is much worse!
+
+310
+00:17:08,349 --> 00:17:09,601
+Never let it bite you!
+
+311
+00:17:09,684 --> 00:17:11,019
+You'll be turned to stone!
+
+312
+00:17:12,062 --> 00:17:13,188
+There's a door on the left!
+
+313
+00:17:13,271 --> 00:17:14,731
+Let's get in there!
+
+314
+00:17:27,118 --> 00:17:28,620
+What's our plan now?
+
+315
+00:17:28,703 --> 00:17:30,455
+This door won't hold for very long.
+
+316
+00:17:30,538 --> 00:17:32,624
+Can we sneak out through the back?
+
+317
+00:17:32,707 --> 00:17:36,086
+If this thing is anything like a Basilisk,
+
+318
+00:17:36,169 --> 00:17:39,047
+it should sense us by our body heat.
+
+319
+00:17:39,631 --> 00:17:41,758
+It will be tricky to give it the slip.
+
+320
+00:17:42,258 --> 00:17:45,386
+But that's the ability of the serpent.
+
+321
+00:17:45,470 --> 00:17:48,181
+The rooster head
+should rely on its vision.
+
+322
+00:17:48,264 --> 00:17:53,269
+Marcille, do you remember how
+Laios took down the Basilisk last time?
+
+323
+00:17:57,148 --> 00:17:59,442
+<i>Don't let it frighten you!</i>
+
+324
+00:17:59,526 --> 00:18:02,487
+<i>Intimidate the Cockatrice
+with all your heart and soul!</i>
+
+325
+00:18:03,613 --> 00:18:05,573
+<i>Easier said than done.</i>
+
+326
+00:18:05,657 --> 00:18:10,078
+<i>Make yourself look big
+and shout at the top of your lungs!</i>
+
+327
+00:18:10,161 --> 00:18:13,456
+<i>Sure, I might be the tallest of the three,</i>
+
+328
+00:18:13,540 --> 00:18:16,334
+<i>but that Cockatrice
+is twice as big as the Basilisk.</i>
+
+329
+00:18:16,417 --> 00:18:19,712
+<i>And I'm not confident
+about shouting either.</i>
+
+330
+00:18:19,796 --> 00:18:22,549
+<i>Wait, how did Laios shout again?</i>
+
+331
+00:18:23,383 --> 00:18:25,593
+<i>Was it like a yell?</i>
+
+332
+00:18:25,677 --> 00:18:27,345
+<i>Or more like a roar?</i>
+
+333
+00:18:30,849 --> 00:18:34,269
+<i>Never mind. If I can frighten it,
+that's all that matters!</i>
+
+334
+00:18:40,108 --> 00:18:41,151
+<i>The end.</i>
+
+335
+00:18:41,234 --> 00:18:42,610
+<i>This won't work.</i>
+
+336
+00:18:42,694 --> 00:18:44,696
+<i>I just know I'll fail!</i>
+
+337
+00:18:44,779 --> 00:18:46,573
+<i>There's no way I can do what Laios did.</i>
+
+338
+00:18:46,656 --> 00:18:48,616
+<i>So what do I do?</i>
+
+339
+00:18:50,076 --> 00:18:52,662
+<i>I'll have to do it</i>
+
+340
+00:18:53,705 --> 00:18:54,831
+<i>my own way!</i>
+
+341
+00:18:58,543 --> 00:19:01,254
+<i>The most brilliant female student
+in the school's history,</i>
+
+342
+00:19:01,754 --> 00:19:02,589
+<i>Marcille!</i>
+
+343
+00:19:05,300 --> 00:19:06,926
+What was that explosion just now?
+
+344
+00:19:07,010 --> 00:19:08,720
+It's Marcille! Let's go!
+
+345
+00:19:15,810 --> 00:19:16,644
+Too shallow.
+
+346
+00:19:18,229 --> 00:19:20,648
+<i>Oh no. I drew too much
+attention to myself.</i>
+
+347
+00:19:20,732 --> 00:19:22,817
+<i>Now both heads are focused on me.</i>
+
+348
+00:19:22,901 --> 00:19:25,153
+<i>I don't have time
+to finish an incantation.</i>
+
+349
+00:19:35,622 --> 00:19:38,166
+Marcille! Did it bite you?
+
+350
+00:19:38,249 --> 00:19:39,959
+I'm okay.
+
+351
+00:19:41,753 --> 00:19:43,880
+It bit you, you idiot!
+
+352
+00:19:44,464 --> 00:19:45,548
+For crying out loud!
+
+353
+00:19:45,632 --> 00:19:48,051
+What? You got bitten by a Cockatrice?
+
+354
+00:19:48,134 --> 00:19:49,260
+This is bad.
+
+355
+00:19:49,344 --> 00:19:52,138
+Do you know what to do
+when you're bitten by a Cockatrice?
+
+356
+00:19:52,680 --> 00:19:54,182
+There's a procedure for that?
+
+357
+00:19:54,265 --> 00:19:56,017
+First, take off your pants.
+
+358
+00:19:57,518 --> 00:19:59,979
+Sit with your legs tightly closed.
+
+359
+00:20:01,272 --> 00:20:04,192
+Keep your arms to your sides
+and cover your ears with your hands.
+
+360
+00:20:04,275 --> 00:20:05,568
+Close your mouth too.
+
+361
+00:20:08,947 --> 00:20:09,822
+Perfect.
+
+362
+00:20:09,906 --> 00:20:12,116
+Now you're all set
+to turn into stone at any moment.
+
+363
+00:20:12,200 --> 00:20:14,827
+I thought the procedure
+was supposed to prevent that!
+
+364
+00:20:20,041 --> 00:20:23,294
+She got petrified
+in an awfully precarious position.
+
+365
+00:20:23,378 --> 00:20:24,379
+Something might break.
+
+366
+00:20:24,462 --> 00:20:27,465
+Her center of gravity is off,
+so she might topple any second.
+
+367
+00:20:27,548 --> 00:20:29,175
+This is bad.
+
+368
+00:20:29,676 --> 00:20:32,637
+Being turned to stone
+is the last thing a human could want.
+
+369
+00:20:32,720 --> 00:20:34,472
+What are we going to do?
+
+370
+00:20:34,555 --> 00:20:35,974
+Is there a way to reverse it?
+
+371
+00:20:37,267 --> 00:20:38,476
+There are a couple of ways.
+
+372
+00:20:38,559 --> 00:20:40,728
+First, we could wait
+for her to heal naturally.
+
+373
+00:20:41,396 --> 00:20:44,482
+Apparently, petrification is more
+of a curse than the effects of a poison.
+
+374
+00:20:45,066 --> 00:20:47,193
+Elves have strong resistance to spells,
+
+375
+00:20:47,277 --> 00:20:49,320
+so she should recover faster
+compared to other races.
+
+376
+00:20:49,821 --> 00:20:54,158
+Next, we can try finding
+other adventurers who might have herbs
+
+377
+00:20:54,242 --> 00:20:56,619
+or know-how to reverse petrification.
+
+378
+00:20:57,203 --> 00:21:01,124
+{\an8}Lastly, I could give it a shot
+with a healing spell.
+
+379
+00:21:01,207 --> 00:21:02,542
+You?
+
+380
+00:21:02,625 --> 00:21:05,628
+Marcille taught me how
+to read the book of magic.
+
+381
+00:21:06,254 --> 00:21:08,631
+There should be a spell in there
+to reverse petrification.
+
+382
+00:21:10,300 --> 00:21:12,885
+Let's keep an eye out
+for herbs and other adventurers,
+
+383
+00:21:12,969 --> 00:21:15,430
+while also giving
+the other two options a try.
+
+384
+00:21:15,930 --> 00:21:18,641
+How long will it take for her to heal?
+
+385
+00:21:19,392 --> 00:21:21,853
+It takes anywhere from six months
+to ten years for a tall-man.
+
+386
+00:21:22,520 --> 00:21:24,355
+I'll go fetch the Cockatrice.
+
+387
+00:21:27,066 --> 00:21:29,736
+<i>They got pretty discolored in one night.</i>
+
+388
+00:21:29,819 --> 00:21:31,738
+<i>I need to process them quickly.</i>
+
+389
+00:21:32,322 --> 00:21:34,365
+She looks like she's about to fall over.
+
+390
+00:21:34,949 --> 00:21:37,660
+Shouldn't we put something under her?
+
+391
+00:21:38,161 --> 00:21:39,037
+You're right.
+
+392
+00:21:39,120 --> 00:21:40,872
+I've got a good idea.
+
+393
+00:21:41,497 --> 00:21:46,169
+<i>Mix the julienned buds with seasoning
+and place them in a pot.</i>
+
+394
+00:21:46,252 --> 00:21:48,129
+<i>Then, put Marcille on top.</i>
+
+395
+00:21:49,088 --> 00:21:50,923
+Oops, her eyelashes broke off.
+
+396
+00:21:51,007 --> 00:21:53,760
+<i>Soak the Cockatrice meat in salt water,</i>
+
+397
+00:21:53,843 --> 00:21:57,388
+<i>place it on Marcille's lap,
+and let it rest.</i>
+
+398
+00:21:59,599 --> 00:22:02,268
+I suppose her position is more stable now.
+
+399
+00:22:02,352 --> 00:22:04,270
+She shouldn't topple over anymore.
+
+400
+00:22:04,854 --> 00:22:06,898
+She looks like some idol
+from a pagan religion.
+
+401
+00:22:07,482 --> 00:22:10,485
+<i>After that, Laios
+and his team worked hard.</i>
+
+402
+00:22:10,568 --> 00:22:11,402
+DAY 2
+
+403
+00:22:11,486 --> 00:22:13,321
+<i>They continued with trial and error.</i>
+
+404
+00:22:13,404 --> 00:22:14,238
+DAY 3
+
+405
+00:22:15,615 --> 00:22:17,033
+<i>And on the fourth day...</i>
+
+406
+00:22:17,116 --> 00:22:18,034
+{\an8}Found one!
+
+407
+00:22:18,117 --> 00:22:20,036
+How do you use it?
+
+408
+00:22:22,163 --> 00:22:23,414
+Why don't we try
+
+409
+00:22:23,498 --> 00:22:25,041
+placing it on her?
+
+410
+00:22:25,666 --> 00:22:28,127
+<i>The stone is starting
+to warm with my body heat.</i>
+
+411
+00:22:28,628 --> 00:22:29,796
+<i>Let's try the spell.</i>
+
+412
+00:22:29,879 --> 00:22:32,298
+<i>Sperae Yeptum</i>
+
+413
+00:22:32,381 --> 00:22:34,801
+<i>Rufermus Vilal...</i>
+
+414
+00:22:35,760 --> 00:22:38,888
+<i>Am I pronouncing it correctly?</i>
+
+415
+00:22:41,057 --> 00:22:41,891
+Watch out!
+
+416
+00:22:48,564 --> 00:22:49,690
+Marcille!
+
+417
+00:22:49,774 --> 00:22:50,817
+You're soft again.
+
+418
+00:22:50,900 --> 00:22:52,652
+It worked!
+
+419
+00:22:52,735 --> 00:22:53,861
+Huh?
+
+420
+00:22:53,945 --> 00:22:54,904
+What's going on?
+
+421
+00:22:54,987 --> 00:22:56,906
+Why do I have vegetable slices on me?
+
+422
+00:22:56,989 --> 00:22:58,366
+And what's with this pot?
+
+423
+00:22:58,950 --> 00:23:00,201
+Let's see.
+
+424
+00:23:01,202 --> 00:23:02,787
+This worked too.
+
+425
+00:23:02,870 --> 00:23:04,122
+- Hurray!
+- Will someone explain?
+
+426
+00:23:04,705 --> 00:23:06,874
+<i>Boil the brined meat</i>
+
+427
+00:23:06,958 --> 00:23:08,626
+<i>and cut it into thin slices.</i>
+
+428
+00:23:08,709 --> 00:23:11,879
+<i>Dress it with fermented buds,</i>
+
+429
+00:23:11,963 --> 00:23:13,506
+<i>and it's done.</i>
+
+430
+00:23:13,560 --> 00:23:15,860
+EISBEIN-STYLE COCKATRICE
+AND SAUERKRAUT-STYLE DRYAD BUDS
+
+431
+00:23:15,967 --> 00:23:17,635
+It's been that long?
+
+432
+00:23:18,219 --> 00:23:20,096
+In the end, what did the trick?
+
+433
+00:23:20,596 --> 00:23:23,099
+We tried so many things,
+who can say for sure?
+
+434
+00:23:23,182 --> 00:23:25,351
+I hope it was my spell.
+
+435
+00:23:25,434 --> 00:23:28,646
+Nah, I say it was
+the fresh herbs that did it.
+
+436
+00:23:28,729 --> 00:23:33,651
+Maybe the cooked Cockatrice meat
+neutralized the curse.
+
+437
+00:23:33,734 --> 00:23:37,196
+{\an8}<i>We need to get back
+to the surface as soon as possible,</i>
+
+438
+00:23:37,280 --> 00:23:38,698
+{\an8}<i>and yet I delayed us all.</i>
+
+439
+00:23:39,490 --> 00:23:40,408
+{\an8}You guys, I'm sor--
+
+440
+00:23:41,242 --> 00:23:43,119
+{\an8}<i>No, that's not it.</i>
+
+441
+00:23:43,703 --> 00:23:46,789
+{\an8}<i>There's something else
+I should say in this situation.</i>
+
+442
+00:23:47,582 --> 00:23:49,333
+{\an8}<i>Yes, first, I should say...</i>
+
+443
+00:23:50,501 --> 00:23:53,212
+You shouldn't use someone
+as a fermentation weight.
+
+444
+00:23:54,088 --> 00:23:56,340
+<i>Be that as it may, dungeon food.</i>
+
+445
+00:23:56,424 --> 00:23:58,634
+<i>Oh, dungeon food.</i>
+
