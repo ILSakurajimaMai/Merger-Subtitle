@@ -38,9 +38,9 @@ pip install sentence-transformers numpy rapidfuzz
 # Cách dùng (CLI)
 
 ```bash
-python subtitle_sync.py -e english.srt -v vietnamese.srt -o output.srt
+python ghep_sub.py -e english.srt -v vietnamese.srt -o output.srt
 # ví dụ ASS
-python subtitle_sync.py -e english.ass -v vietnamese.ass -o output.ass --mode loose
+python ghep_sub.py -e english.ass -v vietnamese.ass -o output.ass --mode loose
 ```
 
 **Options quan trọng**
